@@ -1,0 +1,7 @@
+com\mycompany\chap12useradmin\resources\JakartaEE10Resource.class
+com\murach\data\ConnectionPool.class
+com\murach\data\UserDB.class
+com\mycompany\chap12useradmin\JakartaRestConfiguration.class
+com\murach\entity\User.class
+com\murach\data\DBUtil.class
+com\murach\controller\UserServlet.class
